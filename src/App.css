@@ -1,0 +1,19 @@
+/* 
+@layer components{
+  .content{
+    @apply bg-slate-50 mb-2 border-solid border-2 p-3;
+  }
+} */
+body{
+  font-size: 0.875rem;
+  font-family: Source Sans Pro;
+}
+body h3{
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+
+}
+#content span {
+  font-weight: bold;
+}
